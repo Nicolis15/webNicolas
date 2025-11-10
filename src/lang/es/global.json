@@ -30,7 +30,8 @@
         "web" : "Desarrollada con React, Vite y Tailwind CSS, optimizada para un rendimiento eficiente y un diseño responsive que se adapta a cualquier dispositivo.",
         "parchelo" : "Desarrollada con React Native, con integración de APIs y servicios de Google Cloud Platform. Cuenta con un backend en MongoDB para el manejo de datos.",
         "little" : "Desarrollada en Android con Jetpack Compose, integrando APIs para la gestión de datos y una experiencia de usuario optimizada.",
-        "chatbot": "Aplicación end-to-end de chat inteligente con front en React, back en FastAPI, almacenamiento vectorial en ChromaDB y modelo de lenguaje LLaMA."
+        "chatbot": "Aplicación end-to-end de chat inteligente con front en React, back en FastAPI, almacenamiento vectorial en ChromaDB y modelo de lenguaje LLaMA.",
+        "server": "Implementación de servidor propio con Proxmox para virtualización y Cloudflared para túnel seguro, gestionando contenedores y servicios locales."
     },
 
     "certificacion" : {
@@ -88,5 +89,14 @@
         "d1": "Desarrollé un chatbot web self-hosted con React en el frontend y FastAPI en el backend, integrando un modelo LLaMA para generar respuestas inteligentes y adaptativas a las consultas de los usuarios.",
         "d2": "Implementé ChromaDB como base de datos vectorial para almacenar y consultar información de manera eficiente, mejorando la capacidad del chatbot de acceder a conocimiento contextual y relevante en tiempo real.",
         "d3": "Diseñé una arquitectura modular y escalable que permite actualizar y mantener fácilmente tanto el frontend como el backend, asegurando un rendimiento óptimo y una experiencia de usuario consistente."
+    },
+
+    "server": { 
+        "titulo": "On-Premise Server Deployment",
+        "link": "Ver Proxmox",
+        "d1": "Desarrollé un servidor propio self-hosted utilizando Proxmox para virtualización y Cloudflared para establecer túneles seguros, permitiendo la ejecución de múltiples servicios y contenedores de manera aislada y eficiente.",
+        "d2": "Configuré y gestioné contenedores y servicios locales, optimizando el uso de recursos y garantizando la disponibilidad continua de aplicaciones críticas en la infraestructura on-premise.",
+        "d3": "Diseñé una arquitectura escalable y modular que facilita la actualización y el mantenimiento del servidor, asegurando seguridad, estabilidad y rendimiento óptimo de los servicios alojados."
     }
+    
 }

@@ -10,6 +10,8 @@ import gitLogo from "../../Assets/gitLogo.svg";
 import android from "../../Assets/androidLogo.svg";
 import docker from "../../Assets/imgDocker.svg";
 import fastapi from "../../Assets/imgFastAPI.svg";
+import proxmox from "../../Assets/proxmoxLogo.svg";
+import cloudflare from "../../Assets/cloudflareLogo.svg";
 
 
 export default function RenderE({ clave }) {
@@ -111,6 +113,25 @@ export default function RenderE({ clave }) {
             {
                 nombre: "Git",
                 imagen: gitLogo
+            },
+            
+        ],
+
+        server: [
+
+            {
+                nombre: "Proxmox",
+                imagen: proxmox
+            },
+
+            {
+                nombre: "Docker",
+                imagen: docker
+            },
+
+            {
+                nombre: "Cloudflare",
+                imagen: cloudflare
             },
             
         ],

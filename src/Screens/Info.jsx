@@ -12,17 +12,20 @@ export default function () {
 
     useEffect(() => {
         window.scrollTo(0, 0);
-      }, []);
+    }, []);
 
     return (
         <>
-            <Cabecera />
-            <div >
-                <Inicio Id={id} Imagen={imagen} Link={link}/>
-                <Copy/>
+            <div className="flex flex-col min-h-screen">
+                <Cabecera />
+
+                <div className="flex-1">
+                    <Inicio Id={id} Imagen={imagen} Link={link} />
+                </div>
+
+                <Copy />
             </div>
-
-
         </>
+
     )
 }

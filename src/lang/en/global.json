@@ -30,7 +30,8 @@
         "web" : "Developed with React, Vite, and Tailwind CSS, optimized for efficient performance and a responsive design that adapts to any device.",
         "parchelo": "Developed with React Native, integrating APIs and Google Cloud Platform services. It features a MongoDB backend for data management.",
         "little" : "Developed for Android with Jetpack Compose, integrating APIs for data management and an optimized user experience.",
-        "chatbot": "End-to-end intelligent chat application with a React frontend, FastAPI backend, vector storage in ChromaDB, and LLaMA language model."
+        "chatbot": "End-to-end intelligent chat application with a React frontend, FastAPI backend, vector storage in ChromaDB, and LLaMA language model.",
+        "server": "Self-hosted server with Proxmox for virtualization and Cloudflared for secure tunneling, managing local containers and services."
     },
 
     "certificacion" : {
@@ -88,5 +89,12 @@
     "d1": "Developed a self-hosted web chatbot using React for the frontend and FastAPI for the backend, integrating a LLaMA model to generate intelligent and adaptive responses to user queries.",
     "d2": "Implemented ChromaDB as a vector database to efficiently store and query information, enhancing the chatbot's ability to access contextual and relevant knowledge in real time.",
     "d3": "Designed a modular and scalable architecture that allows for easy maintenance and updates of both frontend and backend, ensuring optimal performance and a consistent user experience."
-}
+    },
+    "server": { 
+        "titulo": "On-Premise Server Deployment",
+        "link": "View Proxmox",
+        "d1": "Developed a self-hosted server using Proxmox for virtualization and Cloudflared for secure tunneling, enabling the execution of multiple services and containers in an isolated and efficient manner.",
+        "d2": "Configured and managed local containers and services, optimizing resource usage and ensuring continuous availability of critical applications on the on-premise infrastructure.",
+        "d3": "Designed a scalable and modular architecture that simplifies server updates and maintenance, ensuring security, stability, and optimal performance of hosted services."
+    }
 }

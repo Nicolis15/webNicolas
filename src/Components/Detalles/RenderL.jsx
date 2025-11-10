@@ -8,6 +8,7 @@ import pythonLogo from "../../Assets/pythonLogo.svg";
 import sqlLogo from "../../Assets/sqlLogo.svg";
 import javaLogo from "../../Assets/javaLogo.svg";
 import kotlin from "../../Assets/kotlinLogo.svg";
+import shell from "../../Assets/imgShell.svg";
 
 export default function RenderL({ clave }) {
     const skills = {
@@ -80,6 +81,13 @@ export default function RenderL({ clave }) {
                 nombre: "React",
                 imagen: reactLogo
             },
+        ],
+
+        server: [
+            {
+                nombre: "Shell",
+                imagen: shell
+            }
         ],
     };
 
