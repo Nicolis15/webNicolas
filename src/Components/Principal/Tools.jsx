@@ -1,4 +1,5 @@
 import Visual from "../../Assets/visualLogo.svg"
+import Docker from "../../Assets/imgDocker.svg"
 import Server from "../../Assets/serverLogo.svg"
 import Tailwind from "../../Assets/tailwindLogo.svg"
 import ReactN from "../../Assets/reactNLogo.svg"
@@ -51,6 +52,13 @@ export default function Tools() {
                     <div class="scroll-animation bg-white w-40 p-5 rounded-2xl shadow-lg justify-center border-2 border-secundary-blue hover:scale-[1.1] transition">
                         <img src={android} alt="Android Studio"/>
                         <p class="font-code-bold text-primary-darkBlue text-center mt-2">A Studio</p>
+                    </div>
+                </a>
+
+                <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer" class="scroll-animation">
+                    <div class="scroll-animation bg-white w-40 p-5 rounded-2xl shadow-lg justify-center border-2 border-secundary-blue hover:scale-[1.1] transition">
+                        <img src={Docker} alt="SSIS" />
+                        <p class="font-code-bold text-primary-darkBlue text-center mt-2">Docker</p>
                     </div>
                 </a>
 
