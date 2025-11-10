@@ -56,7 +56,31 @@ export default function RenderL({ clave }) {
                 nombre: "Kotlin",
                 imagen: kotlin
             }
-        ]
+        ],
+
+        chatbot: [
+            {
+                nombre: "Python",
+                imagen: pythonLogo
+            },
+            {
+                nombre: "HTML",
+                imagen: htmlLogo
+            },
+            {
+                nombre: "CSS",
+                imagen: cssLogo
+            },
+            {
+                nombre: "JavaScript",
+                imagen: javaScript
+            },
+
+            {
+                nombre: "React",
+                imagen: reactLogo
+            },
+        ],
     };
 
     const habilidades = skills[clave] || [];

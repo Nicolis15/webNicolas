@@ -8,6 +8,8 @@ import Power from "../../Assets/powerbiLogo.svg";
 import SSIS from "../../Assets/SSISLogo.svg";
 import gitLogo from "../../Assets/gitLogo.svg";
 import android from "../../Assets/androidLogo.svg";
+import docker from "../../Assets/imgDocker.svg";
+import fastapi from "../../Assets/imgFastAPI.svg";
 
 
 export default function RenderE({ clave }) {
@@ -36,7 +38,7 @@ export default function RenderE({ clave }) {
         ],
         portafolio: [
             {
-                nombre: "React Native",
+                nombre: "React",
                 imagen: ReactN
             },
             {
@@ -81,7 +83,37 @@ export default function RenderE({ clave }) {
                 nombre: "Git",
                 imagen: gitLogo
             },
-        ]
+        ],
+
+        chatbot: [
+            {
+                nombre: "React",
+                imagen: ReactN
+            },
+            {
+                nombre: "Visual Studio",
+                imagen: Visual
+            },
+            {
+                nombre: "Tailwind",
+                imagen: Tailwind
+            },
+            {
+                nombre: "Fast API",
+                imagen: fastapi
+            },
+
+            {
+                nombre: "Docker",
+                imagen: docker
+            },
+
+            {
+                nombre: "Git",
+                imagen: gitLogo
+            },
+            
+        ],
 
     };
 

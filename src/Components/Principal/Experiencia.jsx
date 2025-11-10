@@ -34,7 +34,7 @@ export default function Exeperiencia() {
                         <img src={imgAXA} alt="AXA Colpatria" className="w-full h-40 object-cover" />
                         <div class="p-2">
                             <h3 class="text-md font-code-bold text-gray-800 text-left">Data Engineer · AXA Colpatria</h3>
-                            <p class="text-sm font-code text-left text-gray-500 ">JAN - 2025</p>
+                            <p class="text-sm font-code text-left text-gray-500 ">JAN - 2025 - Currently</p>
                             <p class="text-xs font-code text-left pt-2">{t("experiencia.axa")}</p>
                         </div>
 
