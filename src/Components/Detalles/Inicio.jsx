@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next';
+import chatBotimg from '../../Assets/chatBotimg.jpg';
 import imgAXA from '../../Assets/imgAxa.png';
 import imgWebdef from '../../Assets/imgWebdef.png';
 import imgParchelo from '../../Assets/imgParchelo.png';
@@ -15,7 +16,8 @@ export default function Inicio({ Id, Imagen, Link }) {
         imgAXA,
         imgWebdef,
         imgParchelo,
-        imglittleLemon
+        imglittleLemon,
+        chatBotimg
     };
 
 

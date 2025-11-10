@@ -1,4 +1,5 @@
 import imgAXA from '../../Assets/imgAxa.png';
+import chatBotimg from '../../Assets/chatBotimg.jpg';
 import imglittleLemon from '../../Assets/imglittleLemon.jpg';
 import imgParchelo from '../../Assets/imgParchelo.png';
 import imgWebdef from '../../Assets/imgWebdef.png';
@@ -43,6 +44,26 @@ export default function Exeperiencia() {
                             <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">SQL</h1>
                             <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">ETL</h1>
                             <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Python</h1>
+                        </div>
+                    </div>
+                </button>
+
+                <button onClick={() => navegar('chatbot','chatBotimg','https://chatbot.nicolis.work/')} class="scroll-animation cursor-pointer">
+                    <div class="bg-white rounded-sm drop-shadow-xl w-80 overflow-hidden border-2 border-secundary-lightGreen hover:scale-[1.1] transition">
+                        <img src={chatBotimg} alt="Chatbot" className="w-full h-40 object-cover" />
+                        <div class="p-2">
+                            <h3 class="text-md font-code-bold text-gray-800 text-left">CustomLLM - Chatbot</h3>
+                            <p class="text-sm font-code text-left text-gray-500 ">OCT - 2025</p>
+                            <p class="text-xs font-code text-left pt-2">{t("experiencia.chatbot")}</p>
+                        </div>
+
+                        <div class="flex flex-wrap gap-2 pb-2 pr-2 pl-2">
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Python</h1>
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Fast Api</h1>
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Chroma DB</h1>
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">React</h1>
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Tailwind</h1>
+                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Vite</h1>
                         </div>
                     </div>
                 </button>

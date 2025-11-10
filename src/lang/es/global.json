@@ -29,7 +29,8 @@
         "axa": "Ingeniero de Datos en el área de analítica. Experiencia en procesos ETL, manejo de SQL Server y limpieza de datos con Python.",
         "web" : "Desarrollada con React, Vite y Tailwind CSS, optimizada para un rendimiento eficiente y un diseño responsive que se adapta a cualquier dispositivo.",
         "parchelo" : "Desarrollada con React Native, con integración de APIs y servicios de Google Cloud Platform. Cuenta con un backend en MongoDB para el manejo de datos.",
-        "little" : "Desarrollada en Android con Jetpack Compose, integrando APIs para la gestión de datos y una experiencia de usuario optimizada."
+        "little" : "Desarrollada en Android con Jetpack Compose, integrando APIs para la gestión de datos y una experiencia de usuario optimizada.",
+        "chatbot": "Aplicación end-to-end de chat inteligente con front en React, back en FastAPI, almacenamiento vectorial en ChromaDB y modelo de lenguaje LLaMA."
     },
 
     "certificacion" : {
@@ -79,5 +80,13 @@
         "d1" : "Desarrollé una aplicación nativa para Android utilizando Kotlin como lenguaje principal y Jetpack Compose para la creación de la interfaz de usuario, logrando un diseño moderno, fluido y completamente adaptable a distintos dispositivos.",
         "d2" : "La aplicación integra consumo de APIs a través de la librería Ktor, permitiendo la comunicación eficiente con servicios externos y la obtención de datos en tiempo real. Esta implementación facilitó el manejo de peticiones HTTP de manera sencilla y flexible dentro del entorno de Kotlin.",
         "d3" : "El uso combinado de Jetpack Compose y Ktor permitió construir una arquitectura limpia, con componentes desacoplados y fácilmente mantenibles, asegurando una experiencia de usuario coherente y un desarrollo ágil."
+    },
+
+    "chatbot": {
+        "titulo": "CustomLLM Chatbot",
+        "link": "Ver Chatbot",
+        "d1": "Desarrollé un chatbot web self-hosted con React en el frontend y FastAPI en el backend, integrando un modelo LLaMA para generar respuestas inteligentes y adaptativas a las consultas de los usuarios.",
+        "d2": "Implementé ChromaDB como base de datos vectorial para almacenar y consultar información de manera eficiente, mejorando la capacidad del chatbot de acceder a conocimiento contextual y relevante en tiempo real.",
+        "d3": "Diseñé una arquitectura modular y escalable que permite actualizar y mantener fácilmente tanto el frontend como el backend, asegurando un rendimiento óptimo y una experiencia de usuario consistente."
     }
 }
