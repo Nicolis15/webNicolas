@@ -76,8 +76,8 @@
     "little":{
         "titulo" : "Aplicacion movil Android",
         "link" : "Ver Repositorio",
-        "d1" : "I developed a native Android application using Kotlin as the main programming language and Jetpack Compose for building the user interface, achieving a modern, fluid, and fully responsive design across different devices.",
-        "d2" : "The application integrates API consumption through the Ktor library, enabling efficient communication with external services and real-time data retrieval. This implementation made handling HTTP requests simple and flexible within the Kotlin environment.",
-        "d3" : "The combined use of Jetpack Compose and Ktor allowed me to build a clean architecture with decoupled and easily maintainable components, ensuring a consistent user experience and agile development."
+        "d1" : "Desarrollé una aplicación nativa para Android utilizando Kotlin como lenguaje principal y Jetpack Compose para la creación de la interfaz de usuario, logrando un diseño moderno, fluido y completamente adaptable a distintos dispositivos.",
+        "d2" : "La aplicación integra consumo de APIs a través de la librería Ktor, permitiendo la comunicación eficiente con servicios externos y la obtención de datos en tiempo real. Esta implementación facilitó el manejo de peticiones HTTP de manera sencilla y flexible dentro del entorno de Kotlin.",
+        "d3" : "El uso combinado de Jetpack Compose y Ktor permitió construir una arquitectura limpia, con componentes desacoplados y fácilmente mantenibles, asegurando una experiencia de usuario coherente y un desarrollo ágil."
     }
 }
