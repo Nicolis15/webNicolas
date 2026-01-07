@@ -2,7 +2,8 @@
     "nav" : {
         "sobre" : "About Me",
         "herramienta" : "Tool Box",
-        "proyectos" : "Projects and Experience",
+        "experiencia" : "Experience",
+        "proyectos" : "Projects",
         "certificaciones" : "Certifications",
         "contacto": "Contact me"
     },
@@ -24,8 +25,13 @@
         "frameworks" : "Tools and FrameWorks"
     },
 
+    "experiencia_new" : {
+        "titulo" : "Experience"
+    },
+
+
     "experiencia" : {
-        "titulo" : "Projects and Experience",
+        "titulo" : "Projects",
         "axa" : "Data Engineer in the analytics field. Experience in ETL processes, SQL Server management, and data cleaning with Python.",
         "web" : "Developed with React, Vite, and Tailwind CSS, optimized for efficient performance and a responsive design that adapts to any device.",
         "parchelo": "Developed with React Native, integrating APIs and Google Cloud Platform services. It features a MongoDB backend for data management.",

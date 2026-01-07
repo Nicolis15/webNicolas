@@ -28,7 +28,8 @@ export default function NavBar() {
           } md:flex md:flex-row md:static md:w-auto md:bg-transparent gap-6 text-white`}>
           <li><a href="#sobre-mi" className=" sm:text-sm font-code-bold hover:underline">{t("nav.sobre")}</a></li>
           <li><a href="#herramientas" className="sm:text-sm  font-code-bold hover:underline">{t("nav.herramienta")}</a></li>
-          <li><a href="#experiencia" className="sm:text-sm font-code-bold hover:underline">{t("nav.proyectos")}</a></li>
+          <li><a href="#Experiencia" className="sm:text-sm  font-code-bold hover:underline">{t("nav.experiencia")}</a></li>
+          <li><a href="#Proyectos" className="sm:text-sm font-code-bold hover:underline">{t("nav.proyectos")}</a></li>
           <li><a href="#certificaciones" className="sm:text-sm font-code-bold hover:underline">{t("nav.certificaciones")}</a></li>
           <li><a href="#contacto" className="sm:text-sm font-code-bold hover:underline">{t("nav.contacto")}</a></li>
         </ul>

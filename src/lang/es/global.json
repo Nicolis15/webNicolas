@@ -2,7 +2,8 @@
     "nav" : {
         "sobre" : "Sobre mi",
         "herramienta" : "Herramientas",
-        "proyectos" : "Proyectos y experiencia",
+        "experiencia" : "Experiencia",
+        "proyectos" : "Proyectos",
         "certificaciones" : "Certificaciones",
         "contacto": "Contacto"
     },
@@ -24,8 +25,12 @@
         "frameworks" : "Herramientas y FrameWorks"
     },
 
+    "experiencia_new" : {
+        "titulo" : "Experiencia"
+    },
+
     "experiencia" : {
-        "titulo" : "Proyectos y experiencia",
+        "titulo" : "Proyectos",
         "axa": "Ingeniero de Datos en el área de analítica. Experiencia en procesos ETL, manejo de SQL Server y limpieza de datos con Python.",
         "web" : "Desarrollada con React, Vite y Tailwind CSS, optimizada para un rendimiento eficiente y un diseño responsive que se adapta a cualquier dispositivo.",
         "parchelo" : "Desarrollada con React Native, con integración de APIs y servicios de Google Cloud Platform. Cuenta con un backend en MongoDB para el manejo de datos.",
