@@ -30,25 +30,6 @@ export default function Proyectos() {
 
             <div class="flex flex-wrap place-content-between gap-10 justify-center items-center w-full md:pl-20 md:pr-20">
 
-                <button onClick={() => navegar('axa','imgAXA','https://www.axacolpatria.co/portalpublico-lf/inicio')} class="scroll-animation cursor-pointer">
-                    <div class="bg-white rounded-sm drop-shadow-xl w-80 overflow-hidden border-2 border-secundary-lightGreen hover:scale-[1.1] transition">
-                        <img src={imgAXA} alt="AXA Colpatria" className="w-full h-40 object-cover" />
-                        <div class="p-2">
-                            <h3 class="text-md font-code-bold text-gray-800 text-left">Data Engineer · AXA Colpatria</h3>
-                            <p class="text-sm font-code text-left text-gray-500 ">JAN - 2025 - Currently</p>
-                            <p class="text-xs font-code text-left pt-2">{t("experiencia.axa")}</p>
-                        </div>
-
-                        <div class="flex flex-wrap gap-2 pb-2 pr-2 pl-2">
-                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">SQL Server</h1>
-                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">SSIS</h1>
-                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">SQL</h1>
-                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">ETL</h1>
-                            <h1 class=" bg-gray-800 rounded-2xl pt-1 pb-1 pl-3 pr-3 drop-shadow-xl font-code-bold text-sm text-center text-white">Python</h1>
-                        </div>
-                    </div>
-                </button>
-
                 <button onClick={() => navegar('chatbot','chatBotimg','https://chatbot.nicolis.work/')} class="scroll-animation cursor-pointer">
                     <div class="bg-white rounded-sm drop-shadow-xl w-80 overflow-hidden border-2 border-secundary-lightGreen hover:scale-[1.1] transition">
                         <img src={chatBotimg} alt="Chatbot" className="w-full h-40 object-cover" />
@@ -143,9 +124,6 @@ export default function Proyectos() {
                         </div>
                     </div>
                 </button>
-
-
-
 
             </div>
 

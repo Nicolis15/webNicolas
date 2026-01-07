@@ -1,113 +1,118 @@
 {
-    "nav" : {
-        "sobre" : "About Me",
-        "herramienta" : "Tool Box",
-        "experiencia" : "Experience",
-        "proyectos" : "Projects",
-        "certificaciones" : "Certifications",
+    "nav": {
+        "sobre": "About Me",
+        "herramienta": "Tool Box",
+        "experiencia": "Experience",
+        "proyectos": "Projects",
+        "certificaciones": "Certifications",
         "contacto": "Contact me"
     },
-
-    "portada" : 
-    {
-        "profesion" : "Software Developer and Data Engineer"
+    "portada": {
+        "profesion": "Software Developer and Data Engineer"
     },
-
-    "about" : {
-        "about" : "About me",
-        "primero" : "I am a software developer passionate about frontend development, both in mobile and web environments. Throughout my career, I have developed native Android applications using Kotlin and Jetpack Compose, as well as hybrid applications with React Native, creating smooth and efficient experiences.",
-        "segundo" : "In web development, I work with technologies such as React, Vite, and Tailwind CSS to build modern, optimized, and visually appealing interfaces. Additionally, I have had the opportunity to work as a data engineer, using tools like SQL Server, Python, SSIS, and Power BI to transform data into valuable insights.",
-        "tercero" : "I consider myself a disciplined person focused on continuous improvement, always seeking new challenges and learning opportunities. My goal is to keep growing professionally and contribute innovative solutions to the projects I participate in."
+    "about": {
+        "about": "About me",
+        "primero": "I am a software engineer with hands-on experience building AI-driven, data, and automation solutions in collaboration with business teams. My background spans AI engineering, data engineering, and full-stack development, allowing me to deliver end-to-end solutions with real business impact.",
+        "segundo": "In my current role, I work on the implementation of AI models such as OCR, churn prediction, and classification, as well as the development of real-time APIs and automated data workflows using Python, SQL Server, and SSIS. I also build chatbot solutions by developing frontend interfaces and backend services powered by custom LLM-based implementations, enabling efficient and user-friendly AI interactions.",
+        "tercero": "Previously, I developed mobile and web applications, including native Android apps with Kotlin and Jetpack Compose, hybrid apps with React Native, and modern web interfaces using React, Vite, and Tailwind CSS. This full-stack foundation helps me bridge the gap between technical solutions and end-user needs.",
+        "cuarto" : "I am a disciplined and proactive professional, focused on continuous learning and delivering scalable, reliable solutions aligned with business objectives."
     },
-
-    "tools" : {
-        "lenguajes" : "Programming Languages",
-        "frameworks" : "Tools and FrameWorks"
+    "tools": {
+        "lenguajes": "Programming Languages",
+        "frameworks": "Tools and FrameWorks"
     },
+    "experiencia_new": {
+        "titulo": "Experience",
+        "experiencia3": {
+            "cargo": "Jr AI Engineer || Data Engineer",
+            "fecha": "Oct 2025 - Present",
+            "compania": "AXA Colpatira",
+            "d1": "Implemented AI models and automated daily processes, including OCR, churn prediction, and classification solutions for business use cases.",
+            "d2": "Developed chatbot solutions by building frontend interfaces and backend services using custom LLM-based implementations.",
+            "d3": "Designed and deployed real-time APIs to support business queries, improving operational efficiency and response times.",
+            "d4": "Automated data and AI workflows using Python and SSIS, including ETL processes to ensure reliable data availability.",
+            "d5": "Collaborated closely with business and cross-functional teams to understand requirements and deliver AI solutions aligned with business needs."
+        },
+        "experiencia2": {
+            "cargo": "Data Engineer",
+            "fecha": "Jul 2025 - Oct 2025",
+            "compania": "AXA Colpatira",
+            "d1": "Developed and maintained ELT pipelines using Python, SSIS, and SQL Server, managing data extraction, transformation, and loading processes.",
+            "d2": "Automated data cleansing, validation, and enrichment using business rules and quality checks to ensure data reliability.",
+            "d3": "Integrated curated datasets into BI dashboards to support data-driven operational and strategic decisions.",
+            "d4": "Collaborated with business teams to gather requirements, define business rules, and ensure timely data availability.",
+            "d5": "Supported on-premise database and Python script migrations, adapting workflows to new environments while maintaining pipeline stability."
+        },
 
-    "experiencia_new" : {
-        "titulo" : "Experience",
-
-        "experiencia3" :{
-            "cargo" : "Jr AI engineer || Data engineer",
-            "compania" : "AXA Colpatira",
-            "d1" : "Implemented AI models and automated daily processes, including OCR, churn prediction, and classification solutions for business use cases.",
-            "d2" : "Developed chatbot solutions by building frontend interfaces and backend services using custom LLM-based implementations.",
-            "d3" : "Designed and deployed real-time APIs to support business queries, improving operational efficiency and response times.",
-            "d4" : "Automated data and AI workflows using Python and SSIS, including ETL processes to ensure reliable data availability.",
-            "d5" : "Collaborated closely with business and cross-functional teams to understand requirements and deliver AI solutions aligned with business needs."
+        "experiencia1": {
+            "cargo": "Data Engineer Intern",
+            "fecha": "Jan 2025 - Jul 2025",
+            "compania": "AXA Colpatira",
+            "d1": "Data Engineering Intern responsible for developing data solutions focused on automating data workflows and BAU processes.",
+            "d2": "Designed and maintained ETL pipelines using SQL Server, Python, and SSIS to ensure efficient and reliable data processing.",
+            "d3": "Built interactive Power BI dashboards to support data-driven decision-making across multiple business areas.",
+            "d4": "Collaborated with internal stakeholders to deliver customized data solutions, ensuring high data quality and availability."
         }
-        
     },
-
-
-    "experiencia" : {
-        "titulo" : "Projects",
-        "axa" : "Data Engineer in the analytics field. Experience in ETL processes, SQL Server management, and data cleaning with Python.",
-        "web" : "Developed with React, Vite, and Tailwind CSS, optimized for efficient performance and a responsive design that adapts to any device.",
+    "experiencia": {
+        "titulo": "Projects",
+        "axa": "Data Engineer in the analytics field. Experience in ETL processes, SQL Server management, and data cleaning with Python.",
+        "web": "Developed with React, Vite, and Tailwind CSS, optimized for efficient performance and a responsive design that adapts to any device.",
         "parchelo": "Developed with React Native, integrating APIs and Google Cloud Platform services. It features a MongoDB backend for data management.",
-        "little" : "Developed for Android with Jetpack Compose, integrating APIs for data management and an optimized user experience.",
+        "little": "Developed for Android with Jetpack Compose, integrating APIs for data management and an optimized user experience.",
         "chatbot": "End-to-end intelligent chat application with a React frontend, FastAPI backend, vector storage in ChromaDB, and LLaMA language model.",
         "server": "Self-hosted server with Proxmox for virtualization and Cloudflared for secure tunneling, managing local containers and services."
     },
-
-    "certificacion" : {
-        "titulo" : "Certifications"
+    "certificacion": {
+        "titulo": "Certifications"
     },
-
-    "contacto" : {
-        "titulo" : "Contact Me",
-        "nombre" : "Name",
-        "mensaje" : "message",
-        "enviar" : "Send"
+    "contacto": {
+        "titulo": "Contact Me",
+        "nombre": "Name",
+        "mensaje": "message",
+        "enviar": "Send"
     },
-
-    "general" : {
-        "descripcion" : "Description",
-        "lenguajes" : "Programming Languages",
-        "frameworks" : "Tools and FrameWorks"
+    "general": {
+        "descripcion": "Description",
+        "lenguajes": "Programming Languages",
+        "frameworks": "Tools and FrameWorks"
     },
-
-    "axa":{
-        "titulo" : "Data Engineer · AXA Colpatria",
-        "link" : "Once again from the company",
-        "d1" : "I designed and developed data pipelines using Python, SQL, and ETL tools such as SSIS, with the goal of automating extraction, transformation, and loading processes from various sources. These pipelines optimized data flow, enabling efficient integration and storage.",
-        "d2" : "I implemented data cleaning, validation, and standardization processes, ensuring data quality and availability for analysis. This information was used in interactive dashboards developed in Power BI, supporting strategic decision-making.",
-        "d3" : "Additionally, I provided support in data migration to on-premise servers, actively participating in the configuration and execution of tests to ensure proper environment functionality, data integrity, and expected system performance"
+    "axa": {
+        "titulo": "Data Engineer · AXA Colpatria",
+        "link": "Once again from the company",
+        "d1": "I designed and developed data pipelines using Python, SQL, and ETL tools such as SSIS, with the goal of automating extraction, transformation, and loading processes from various sources. These pipelines optimized data flow, enabling efficient integration and storage.",
+        "d2": "I implemented data cleaning, validation, and standardization processes, ensuring data quality and availability for analysis. This information was used in interactive dashboards developed in Power BI, supporting strategic decision-making.",
+        "d3": "Additionally, I provided support in data migration to on-premise servers, actively participating in the configuration and execution of tests to ensure proper environment functionality, data integrity, and expected system performance"
     },
-
-    "portafolio":{
-        "titulo" : "Web portfolio",
-        "link" : "View Repository",
-        "d1" : "I developed a modern and responsive web portfolio using React, with the Vite bundling tool, which allowed me to optimize the project's performance and enjoy a faster, more efficient development experience. For navigation between sections, I integrated React Router DOM, ensuring smooth transitions without page reloads.",
-        "d2" : "I used Tailwind CSS to apply a clean and professional design, fully adaptable to different devices. I was able to style the components quickly and consistently, maintaining a polished visual appearance throughout the site.",
-        "d3" : "The portfolio is designed as a professional showcase that reflects my technical and design skills. It features sections such as a personal introduction, featured projects, technologies I master, and a contact form to facilitate connections with potential employers or collaborators."
+    "portafolio": {
+        "titulo": "Web portfolio",
+        "link": "View Repository",
+        "d1": "I developed a modern and responsive web portfolio using React, with the Vite bundling tool, which allowed me to optimize the project's performance and enjoy a faster, more efficient development experience. For navigation between sections, I integrated React Router DOM, ensuring smooth transitions without page reloads.",
+        "d2": "I used Tailwind CSS to apply a clean and professional design, fully adaptable to different devices. I was able to style the components quickly and consistently, maintaining a polished visual appearance throughout the site.",
+        "d3": "The portfolio is designed as a professional showcase that reflects my technical and design skills. It features sections such as a personal introduction, featured projects, technologies I master, and a contact form to facilitate connections with potential employers or collaborators."
     },
-
-    "parchelo":{
-        "titulo" : "Cross-platform mobile application",
-        "link" : "View Projec",
-        "d1" : "I developed a cross-platform mobile application using React Native, enabling it to run on both Android and iOS devices. The project was built from scratch, including the complete design of the user interface and user experience, ensuring intuitive and visually appealing navigation.",
-        "d2" : "I implemented an authentication system for secure user access, as well as a connection to a MongoDB database for data storage and management. This allowed for a robust structure to handle real-time data.",
-        "d3" : "Additionally, I integrated a map view (MapView) feature, enabling the geographic visualization of key data within the app."
+    "parchelo": {
+        "titulo": "Cross-platform mobile application",
+        "link": "View Projec",
+        "d1": "I developed a cross-platform mobile application using React Native, enabling it to run on both Android and iOS devices. The project was built from scratch, including the complete design of the user interface and user experience, ensuring intuitive and visually appealing navigation.",
+        "d2": "I implemented an authentication system for secure user access, as well as a connection to a MongoDB database for data storage and management. This allowed for a robust structure to handle real-time data.",
+        "d3": "Additionally, I integrated a map view (MapView) feature, enabling the geographic visualization of key data within the app."
     },
-
-    "little":{
-        "titulo" : "Android mobile application",
-        "link" : "View Repository",
-        "d1" : "I developed a native Android application using Kotlin as the main programming language and Jetpack Compose for building the user interface, achieving a modern, fluid, and fully responsive design across different devices.",
-        "d2" : "The application integrates API consumption through the Ktor library, enabling efficient communication with external services and real-time data retrieval. This implementation made handling HTTP requests simple and flexible within the Kotlin environment.",
-        "d3" : "The combined use of Jetpack Compose and Ktor allowed me to build a clean architecture with decoupled and easily maintainable components, ensuring a consistent user experience and agile development."
+    "little": {
+        "titulo": "Android mobile application",
+        "link": "View Repository",
+        "d1": "I developed a native Android application using Kotlin as the main programming language and Jetpack Compose for building the user interface, achieving a modern, fluid, and fully responsive design across different devices.",
+        "d2": "The application integrates API consumption through the Ktor library, enabling efficient communication with external services and real-time data retrieval. This implementation made handling HTTP requests simple and flexible within the Kotlin environment.",
+        "d3": "The combined use of Jetpack Compose and Ktor allowed me to build a clean architecture with decoupled and easily maintainable components, ensuring a consistent user experience and agile development."
     },
-
     "chatbot": {
-    "titulo": "CustomLLM Chatbot",
-    "link": "View Chatbot",
-    "d1": "Developed a self-hosted web chatbot using React for the frontend and FastAPI for the backend, integrating a LLaMA model to generate intelligent and adaptive responses to user queries.",
-    "d2": "Implemented ChromaDB as a vector database to efficiently store and query information, enhancing the chatbot's ability to access contextual and relevant knowledge in real time.",
-    "d3": "Designed a modular and scalable architecture that allows for easy maintenance and updates of both frontend and backend, ensuring optimal performance and a consistent user experience."
+        "titulo": "CustomLLM Chatbot",
+        "link": "View Chatbot",
+        "d1": "Developed a self-hosted web chatbot using React for the frontend and FastAPI for the backend, integrating a LLaMA model to generate intelligent and adaptive responses to user queries.",
+        "d2": "Implemented ChromaDB as a vector database to efficiently store and query information, enhancing the chatbot's ability to access contextual and relevant knowledge in real time.",
+        "d3": "Designed a modular and scalable architecture that allows for easy maintenance and updates of both frontend and backend, ensuring optimal performance and a consistent user experience."
     },
-    "server": { 
+    "server": {
         "titulo": "On-Premise Server Deployment",
         "link": "View Proxmox",
         "d1": "Developed a self-hosted server using Proxmox for virtualization and Cloudflared for secure tunneling, enabling the execution of multiple services and containers in an isolated and efficient manner.",

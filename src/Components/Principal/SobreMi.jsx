@@ -14,7 +14,8 @@ export default function SobreMi() {
                     <p class="font-code text-secundary-white pt-5 text-start text-xs sm:text-xs md:text-sm">
                     {t("about.primero")}<br></br><br></br>
                     {t("about.segundo")}<br></br><br></br>
-                    {t("about.tercero")}<br></br>
+                    {t("about.tercero")}<br></br><br></br>
+                    {t("about.cuarto")}<br></br>
                     </p>
                 </div>
 

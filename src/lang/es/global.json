@@ -11,31 +11,48 @@
         "profesion": "Desarrollador de Software e Ingeniero de Datos"
     },
     "about": {
-        "about": "Sobre Mi",
-        "primero": "Soy un Ingeniero de Sistemas apasionado por el desarrollo frontend, tanto en el ámbito móvil como web. A lo largo de mi carrera, he desarrollado aplicaciones nativas para Android con Kotlin y Jetpack Compose, así como aplicaciones híbridas con React Native, creando experiencias fluidas y eficientes.",
-        "segundo": "En el desarrollo web, trabajo con tecnologías como React, Vite y Tailwind CSS para construir interfaces modernas, optimizadas y atractivas. Además, he tenido la oportunidad de desempeñarme como ingeniero de datos, utilizando herramientas como SQL Server, Python, SSIS y Power BI para transformar datos en información valiosa.",
-        "tercero": "Me considero una persona disciplinada y enfocada en la mejora continua, siempre en busca de nuevos retos y aprendizajes. Mi objetivo es seguir creciendo profesionalmente y aportar soluciones innovadoras a los proyectos en los que participo."
+        "about": "Sobre mí",
+        "primero": "Soy ingeniero de software con experiencia práctica en la construcción de soluciones de IA, datos y automatización, trabajando de la mano con equipos de negocio. Mi perfil abarca ingeniería de IA, ingeniería de datos y desarrollo full-stack, lo que me permite entregar soluciones de extremo a extremo con impacto real en el negocio.",
+        "segundo": "En mi rol actual, trabajo en la implementación de modelos de IA como OCR, predicción de churn y clasificación, así como en el desarrollo de APIs en tiempo real y flujos de datos automatizados utilizando Python, SQL Server y SSIS. Además, construyo soluciones de chatbot desarrollando interfaces frontend y servicios backend impulsados por implementaciones personalizadas basadas en LLM, permitiendo interacciones de IA eficientes y fáciles de usar.",
+        "tercero": "Previamente, desarrollé aplicaciones móviles y web, incluyendo apps nativas en Android con Kotlin y Jetpack Compose, aplicaciones híbridas con React Native e interfaces web modernas utilizando React, Vite y Tailwind CSS. Esta base full-stack me permite cerrar la brecha entre las soluciones técnicas y las necesidades del usuario final.",
+        "cuarto": "Soy un profesional disciplinado y proactivo, enfocado en el aprendizaje continuo y en la entrega de soluciones escalables y confiables alineadas con los objetivos del negocio."
     },
-
     "tools": {
         "lenguajes": "Lenguajes de programación",
         "frameworks": "Herramientas y FrameWorks"
     },
-
     "experiencia_new": {
         "titulo": "Experience",
         "experiencia3": {
             "cargo": "Ingeniero de IA Jr || Ingeniero de Datos",
             "compania": "AXA Colpatria",
-            "fecha" : "oct. 2025 - actualidad",
+            "fecha": "oct 2025 - actualidad",
             "d1": "Implementé modelos de IA y automaticé procesos diarios, incluyendo OCR, predicción de churn y soluciones de clasificación para casos de uso del negocio.",
             "d2": "Desarrollé soluciones de chatbot construyendo interfaces frontend y servicios backend mediante implementaciones personalizadas basadas en LLM.",
             "d3": "Diseñé y desplegué APIs en tiempo real para soportar consultas del negocio, mejorando la eficiencia operativa y los tiempos de respuesta.",
             "d4": "Automaticé flujos de datos e IA utilizando Python y SSIS, incluyendo procesos ETL para garantizar la disponibilidad confiable de los datos.",
             "d5": "Colaboré estrechamente con el negocio y equipos multifuncionales para entender requerimientos y entregar soluciones de IA alineadas con las necesidades empresariales."
+        },
+        "experiencia2": {
+            "cargo": "Ingeniero de Datos",
+            "fecha": "Jul 2025 - Oct 2025",
+            "compania": "AXA Colpatira",
+            "d1": "Desarrollé y mantuve pipelines ELT utilizando Python, SSIS y SQL Server, gestionando procesos de extracción, transformación y carga de datos.",
+            "d2": "Automaticé la limpieza, validación y enriquecimiento de datos mediante reglas de negocio y controles de calidad para garantizar la confiabilidad de la información.",
+            "d3": "Integré conjuntos de datos curados en dashboards de BI para apoyar decisiones operativas y estratégicas basadas en datos.",
+            "d4": "Colaboré con equipos de negocio para recopilar requerimientos, definir reglas de negocio y asegurar la disponibilidad oportuna de los datos.",
+            "d5": "Apoyé migraciones de bases de datos on-premise y scripts en Python, adaptando los flujos de trabajo a nuevos entornos sin comprometer la estabilidad de los pipelines."
+        },
+        "experiencia1": {
+            "cargo": "Practicante Ingeniero de Datos",
+            "fecha": "Ene 2025 - Jul 2025",
+            "compania": "AXA Colpatira",
+            "d1": "Practicante de Ingeniería de Datos responsable del desarrollo de soluciones enfocadas en la automatización de flujos de datos y procesos BAU.",
+            "d2": "Diseñé y mantuve pipelines ETL utilizando SQL Server, Python y SSIS para asegurar un procesamiento de datos eficiente y confiable.",
+            "d3": "Construí dashboards interactivos en Power BI para apoyar la toma de decisiones basada en datos en múltiples áreas del negocio.",
+            "d4": "Colaboré con stakeholders internos para entregar soluciones de datos personalizadas, garantizando alta calidad y disponibilidad de la información."
         }
     },
-
     "experiencia": {
         "titulo": "Proyectos",
         "axa": "Ingeniero de Datos en el área de analítica. Experiencia en procesos ETL, manejo de SQL Server y limpieza de datos con Python.",

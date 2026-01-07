@@ -44,7 +44,7 @@ export default function Experiencia() {
                 {/* ========= EXPERIENCIA DERECHA ========= */}
                 <div className="grid grid-cols-[1fr_auto_1fr] gap-6 items-start mb-16">
 
-                    <div className="flex items-start justify-end text-sm text-gray-500">ene. 2025 – jun. 2025</div>
+                    <div className="flex items-start justify-end text-sm text-gray-500">{t("experiencia_new.experiencia2.fecha")}</div>
 
                     <div className="flex justify-center">
                         <div className="w-3 h-3 rounded-full bg-secundary-blue z-10" />
@@ -53,13 +53,15 @@ export default function Experiencia() {
                     {/* CARD DERECHA */}
                     <div className="flex justify-start">
                         <div className="bg-white/90 backdrop-blur-md rounded-xl shadow-md p-6 w-full mr-5 max-w-4xl">
-                            <h3 className="font-code-bold md:text-lg text-md text-lg">Practicante ingeniero de datos</h3>
-                            <p className="text-sm text-gray-600 mb-3">AXA Colpatria</p>
+                            <h3 className="font-code-bold md:text-lg text-md text-lg">{t("experiencia_new.experiencia2.cargo")}</h3>
+                            <p className="text-sm text-gray-600 mb-3">{t("experiencia_new.experiencia2.compania")}</p>
 
                             <ul className="list-disc md:text-sm text-xs pl-5 text-gray-700 space-y-1">
-                                <li>Developed and maintained ELT pipelines using Python and SQL Server.</li>
-                                <li>Automated data quality and validation processes.</li>
-                                <li>Built Power BI dashboards to support business decision-making.</li>
+                                <li>{t("experiencia_new.experiencia2.d1")}</li>
+                                <li>{t("experiencia_new.experiencia2.d2")}</li>
+                                <li>{t("experiencia_new.experiencia2.d3")}</li>
+                                <li>{t("experiencia_new.experiencia2.d4")}</li>
+                                <li>{t("experiencia_new.experiencia2.d5")}</li>
                             </ul>
                         </div>
                     </div>
@@ -72,13 +74,14 @@ export default function Experiencia() {
                     {/* CARD IZQUIERDA */}
                     <div className="flex justify-end">
                         <div className="bg-white/90 backdrop-blur-md rounded-xl shadow-md p-6 w-full ml-5 max-w-4xl">
-                            <h3 className="font-code-bold md:text-lg text-md text-lg">Practicante ingeniero de datos</h3>
-                            <p className="text-sm text-gray-600 mb-3">AXA Colpatria</p>
+                            <h3 className="font-code-bold md:text-lg text-md text-lg">{t("experiencia_new.experiencia1.cargo")}</h3>
+                            <p className="text-sm text-gray-600 mb-3">{t("experiencia_new.experiencia1.compania")}</p>
 
                             <ul className="list-disc md:text-sm text-xs pl-5 text-gray-700 space-y-1">
-                                <li>Developed and maintained ELT pipelines using Python and SQL Server.</li>
-                                <li>Automated data quality and validation processes.</li>
-                                <li>Built Power BI dashboards to support business decision-making.</li>
+                                <li>{t("experiencia_new.experiencia1.d1")}</li>
+                                <li>{t("experiencia_new.experiencia1.d2")}</li>
+                                <li>{t("experiencia_new.experiencia1.d3")}</li>
+                                <li>{t("experiencia_new.experiencia1.d4")}</li>
                             </ul>
                         </div>
                     </div>
@@ -87,7 +90,7 @@ export default function Experiencia() {
                         <div className="w-3 h-3 rounded-full bg-secundary-blue z-10" />
                     </div>
 
-                    <div className="flex items-start font-code-bold text-left text-sm text-gray-500">ene. 2025 – jun. 2025</div>
+                    <div className="flex items-start font-code-bold text-left text-sm text-gray-500">{t("experiencia_new.experiencia1.fecha")}</div>
 
                 </div>
 
