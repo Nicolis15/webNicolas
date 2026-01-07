@@ -25,7 +25,7 @@ export default function Experiencia() {
 
                     {/* CARD */}
                     <div className="flex justify-center md:justify-end">
-                        <div className="bg-white/90 backdrop-blur-md rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:ml-5">
+                        <div className="bg-white/90 backdrop-blur-md ml-5 mr-5 rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:ml-5">
                             <h3 className="font-code-bold text-md md:text-lg">
                                 {t("experiencia_new.experiencia3.cargo")}
                             </h3>
@@ -74,7 +74,7 @@ export default function Experiencia() {
 
                     {/* CARD */}
                     <div className="flex justify-center md:justify-start">
-                        <div className="bg-white/90 backdrop-blur-md rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:mr-5">
+                        <div className="bg-white/90 backdrop-blur-md ml-5 mr-5 rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:mr-5">
                             <h3 className="font-code-bold text-md md:text-lg">
                                 {t("experiencia_new.experiencia2.cargo")}
                             </h3>
@@ -103,7 +103,7 @@ export default function Experiencia() {
 
                     {/* CARD */}
                     <div className="flex justify-center md:justify-end">
-                        <div className="bg-white/90 backdrop-blur-md rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:ml-5">
+                        <div className="bg-white/90 backdrop-blur-md ml-5 mr-5 rounded-xl shadow-md p-5 md:p-6 w-full max-w-xl md:max-w-4xl md:ml-5">
                             <h3 className="font-code-bold text-md md:text-lg">
                                 {t("experiencia_new.experiencia1.cargo")}
                             </h3>
