@@ -1,93 +1,92 @@
 {
-    "nav" : {
-        "sobre" : "Sobre mi",
-        "herramienta" : "Herramientas",
-        "experiencia" : "Experiencia",
-        "proyectos" : "Proyectos",
-        "certificaciones" : "Certificaciones",
+    "nav": {
+        "sobre": "Sobre mi",
+        "herramienta": "Herramientas",
+        "experiencia": "Experiencia",
+        "proyectos": "Proyectos",
+        "certificaciones": "Certificaciones",
         "contacto": "Contacto"
     },
-
-    "portada" : 
-    {
-        "profesion" : "Desarrollador de Software e Ingeniero de Datos"
+    "portada": {
+        "profesion": "Desarrollador de Software e Ingeniero de Datos"
+    },
+    "about": {
+        "about": "Sobre Mi",
+        "primero": "Soy un Ingeniero de Sistemas apasionado por el desarrollo frontend, tanto en el ámbito móvil como web. A lo largo de mi carrera, he desarrollado aplicaciones nativas para Android con Kotlin y Jetpack Compose, así como aplicaciones híbridas con React Native, creando experiencias fluidas y eficientes.",
+        "segundo": "En el desarrollo web, trabajo con tecnologías como React, Vite y Tailwind CSS para construir interfaces modernas, optimizadas y atractivas. Además, he tenido la oportunidad de desempeñarme como ingeniero de datos, utilizando herramientas como SQL Server, Python, SSIS y Power BI para transformar datos en información valiosa.",
+        "tercero": "Me considero una persona disciplinada y enfocada en la mejora continua, siempre en busca de nuevos retos y aprendizajes. Mi objetivo es seguir creciendo profesionalmente y aportar soluciones innovadoras a los proyectos en los que participo."
     },
 
-    "about" : {
-        "about" : "Sobre Mi",
-        "primero" : "Soy un Ingeniero de Sistemas apasionado por el desarrollo frontend, tanto en el ámbito móvil como web. A lo largo de mi carrera, he desarrollado aplicaciones nativas para Android con Kotlin y Jetpack Compose, así como aplicaciones híbridas con React Native, creando experiencias fluidas y eficientes.",
-        "segundo" : "En el desarrollo web, trabajo con tecnologías como React, Vite y Tailwind CSS para construir interfaces modernas, optimizadas y atractivas. Además, he tenido la oportunidad de desempeñarme como ingeniero de datos, utilizando herramientas como SQL Server, Python, SSIS y Power BI para transformar datos en información valiosa.",
-        "tercero" : "Me considero una persona disciplinada y enfocada en la mejora continua, siempre en busca de nuevos retos y aprendizajes. Mi objetivo es seguir creciendo profesionalmente y aportar soluciones innovadoras a los proyectos en los que participo."
+    "tools": {
+        "lenguajes": "Lenguajes de programación",
+        "frameworks": "Herramientas y FrameWorks"
     },
 
-    "tools" : {
-        "lenguajes" : "Lenguajes de programación",
-        "frameworks" : "Herramientas y FrameWorks"
+    "experiencia_new": {
+        "titulo": "Experience",
+        "experiencia3": {
+            "cargo": "Ingeniero de IA Jr || Ingeniero de Datos",
+            "compania": "AXA Colpatria",
+            "fecha" : "oct. 2025 - actualidad",
+            "d1": "Implementé modelos de IA y automaticé procesos diarios, incluyendo OCR, predicción de churn y soluciones de clasificación para casos de uso del negocio.",
+            "d2": "Desarrollé soluciones de chatbot construyendo interfaces frontend y servicios backend mediante implementaciones personalizadas basadas en LLM.",
+            "d3": "Diseñé y desplegué APIs en tiempo real para soportar consultas del negocio, mejorando la eficiencia operativa y los tiempos de respuesta.",
+            "d4": "Automaticé flujos de datos e IA utilizando Python y SSIS, incluyendo procesos ETL para garantizar la disponibilidad confiable de los datos.",
+            "d5": "Colaboré estrechamente con el negocio y equipos multifuncionales para entender requerimientos y entregar soluciones de IA alineadas con las necesidades empresariales."
+        }
     },
 
-    "experiencia_new" : {
-        "titulo" : "Experiencia"
-    },
-
-    "experiencia" : {
-        "titulo" : "Proyectos",
+    "experiencia": {
+        "titulo": "Proyectos",
         "axa": "Ingeniero de Datos en el área de analítica. Experiencia en procesos ETL, manejo de SQL Server y limpieza de datos con Python.",
-        "web" : "Desarrollada con React, Vite y Tailwind CSS, optimizada para un rendimiento eficiente y un diseño responsive que se adapta a cualquier dispositivo.",
-        "parchelo" : "Desarrollada con React Native, con integración de APIs y servicios de Google Cloud Platform. Cuenta con un backend en MongoDB para el manejo de datos.",
-        "little" : "Desarrollada en Android con Jetpack Compose, integrando APIs para la gestión de datos y una experiencia de usuario optimizada.",
+        "web": "Desarrollada con React, Vite y Tailwind CSS, optimizada para un rendimiento eficiente y un diseño responsive que se adapta a cualquier dispositivo.",
+        "parchelo": "Desarrollada con React Native, con integración de APIs y servicios de Google Cloud Platform. Cuenta con un backend en MongoDB para el manejo de datos.",
+        "little": "Desarrollada en Android con Jetpack Compose, integrando APIs para la gestión de datos y una experiencia de usuario optimizada.",
         "chatbot": "Aplicación end-to-end de chat inteligente con front en React, back en FastAPI, almacenamiento vectorial en ChromaDB y modelo de lenguaje LLaMA.",
         "server": "Implementación de servidor propio con Proxmox para virtualización y Cloudflared para túnel seguro, gestionando contenedores y servicios locales."
     },
-
-    "certificacion" : {
-        "titulo" : "Certificaciones"
+    "certificacion": {
+        "titulo": "Certificaciones"
     },
-
-    "contacto" : {
-        "titulo" : "Contactame",
-        "nombre" : "Nombre",
-        "mensaje" : "Mensaje",
-        "enviar" : "Enviar"
+    "contacto": {
+        "titulo": "Contactame",
+        "nombre": "Nombre",
+        "mensaje": "Mensaje",
+        "enviar": "Enviar"
     },
-
-    "general" : {
-        "descripcion" : "Descripción",
-        "lenguajes" : "Lenguajes de programación",
-        "frameworks" : "Herramientas y FrameWorks"
+    "general": {
+        "descripcion": "Descripción",
+        "lenguajes": "Lenguajes de programación",
+        "frameworks": "Herramientas y FrameWorks"
     },
-
-    "axa":{
-        "titulo" : "Ingeniero de Datos · AXA Colpatria ",
-        "link" : "Conoce más de la compañia",
-        "d1" : "Diseñé y desarrollé pipelines de datos utilizando Python, SQL y herramientas ETL como SSIS, con el objetivo de automatizar procesos de extracción, transformación y carga de información desde diversas fuentes. Estos pipelines optimizaron el flujo de datos, facilitando su integración y almacenamiento eficiente.",
-        "d2" : "Implementé procesos de limpieza, validación y estandarización de datos, asegurando su calidad y disponibilidad para el análisis. Esta información fue consumida en tableros interactivos desarrollados en Power BI, apoyando la toma de decisiones estratégicas.",
-        "d3" : "Además, brindé soporte en la migración de datos hacia servidores on-premise, participando activamente en la configuración y ejecución de pruebas para garantizar el correcto funcionamiento de los entornos, la integridad de los datos y el rendimiento esperado de los sistemas."
+    "axa": {
+        "titulo": "Ingeniero de Datos · AXA Colpatria ",
+        "link": "Conoce más de la compañia",
+        "d1": "Diseñé y desarrollé pipelines de datos utilizando Python, SQL y herramientas ETL como SSIS, con el objetivo de automatizar procesos de extracción, transformación y carga de información desde diversas fuentes. Estos pipelines optimizaron el flujo de datos, facilitando su integración y almacenamiento eficiente.",
+        "d2": "Implementé procesos de limpieza, validación y estandarización de datos, asegurando su calidad y disponibilidad para el análisis. Esta información fue consumida en tableros interactivos desarrollados en Power BI, apoyando la toma de decisiones estratégicas.",
+        "d3": "Además, brindé soporte en la migración de datos hacia servidores on-premise, participando activamente en la configuración y ejecución de pruebas para garantizar el correcto funcionamiento de los entornos, la integridad de los datos y el rendimiento esperado de los sistemas."
     },
-
-    "portafolio":{
-        "titulo" : "Portafolio web",
-        "link" : "Ver Repositorio",
-        "d1" : "Desarrollé un portafolio web moderno y responsive utilizando React, con la herramienta de empaquetado Vite, lo que me permitió optimizar el rendimiento del proyecto y disfrutar de una experiencia de desarrollo más rápida y eficiente. Para la navegación entre secciones, integré React Router DOM, garantizando una transición fluida sin recargas de página.",
-        "d2" : "Utilicé Tailwind CSS para aplicar un diseño limpio y profesional, completamente adaptable a distintos dispositivos. Logré estilizar los componentes de forma ágil y coherente, manteniendo una apariencia visual cuidada en todo el sitio.",
-        "d3" : "El portafolio está diseñado como una vitrina profesional que refleja mis habilidades técnicas y de diseño. Cuenta con secciones como presentación personal, proyectos destacados, tecnologías que domino y un formulario de contacto para facilitar la conexión con posibles empleadores o colaboradores."
+    "portafolio": {
+        "titulo": "Portafolio web",
+        "link": "Ver Repositorio",
+        "d1": "Desarrollé un portafolio web moderno y responsive utilizando React, con la herramienta de empaquetado Vite, lo que me permitió optimizar el rendimiento del proyecto y disfrutar de una experiencia de desarrollo más rápida y eficiente. Para la navegación entre secciones, integré React Router DOM, garantizando una transición fluida sin recargas de página.",
+        "d2": "Utilicé Tailwind CSS para aplicar un diseño limpio y profesional, completamente adaptable a distintos dispositivos. Logré estilizar los componentes de forma ágil y coherente, manteniendo una apariencia visual cuidada en todo el sitio.",
+        "d3": "El portafolio está diseñado como una vitrina profesional que refleja mis habilidades técnicas y de diseño. Cuenta con secciones como presentación personal, proyectos destacados, tecnologías que domino y un formulario de contacto para facilitar la conexión con posibles empleadores o colaboradores."
     },
-    
-    "parchelo":{
-        "titulo" : "Aplicacion movil multiplataforma",
-        "link" : "Ver Proyecto",
-        "d1" : "Desarrollé una aplicación móvil multiplataforma utilizando React Native, permitiendo su funcionamiento tanto en dispositivos Android como iOS. El proyecto fue creado desde cero, incluyendo el diseño completo de la interfaz y la experiencia de usuario, asegurando una navegación intuitiva y visualmente atractiva.",
-        "d2" : "Implementé un sistema de autenticación para el acceso seguro de los usuarios, así como la conexión con una base de datos MongoDB para el almacenamiento y gestión de la información. Esto permitió mantener una estructura robusta para el manejo de datos en tiempo real.",
-        "d3" : "Además, integré la funcionalidad de vista de mapa (MapView), facilitando la visualización geográfica de datos clave dentro de la app."
+    "parchelo": {
+        "titulo": "Aplicacion movil multiplataforma",
+        "link": "Ver Proyecto",
+        "d1": "Desarrollé una aplicación móvil multiplataforma utilizando React Native, permitiendo su funcionamiento tanto en dispositivos Android como iOS. El proyecto fue creado desde cero, incluyendo el diseño completo de la interfaz y la experiencia de usuario, asegurando una navegación intuitiva y visualmente atractiva.",
+        "d2": "Implementé un sistema de autenticación para el acceso seguro de los usuarios, así como la conexión con una base de datos MongoDB para el almacenamiento y gestión de la información. Esto permitió mantener una estructura robusta para el manejo de datos en tiempo real.",
+        "d3": "Además, integré la funcionalidad de vista de mapa (MapView), facilitando la visualización geográfica de datos clave dentro de la app."
     },
-
-    "little":{
-        "titulo" : "Aplicacion movil Android",
-        "link" : "Ver Repositorio",
-        "d1" : "Desarrollé una aplicación nativa para Android utilizando Kotlin como lenguaje principal y Jetpack Compose para la creación de la interfaz de usuario, logrando un diseño moderno, fluido y completamente adaptable a distintos dispositivos.",
-        "d2" : "La aplicación integra consumo de APIs a través de la librería Ktor, permitiendo la comunicación eficiente con servicios externos y la obtención de datos en tiempo real. Esta implementación facilitó el manejo de peticiones HTTP de manera sencilla y flexible dentro del entorno de Kotlin.",
-        "d3" : "El uso combinado de Jetpack Compose y Ktor permitió construir una arquitectura limpia, con componentes desacoplados y fácilmente mantenibles, asegurando una experiencia de usuario coherente y un desarrollo ágil."
+    "little": {
+        "titulo": "Aplicacion movil Android",
+        "link": "Ver Repositorio",
+        "d1": "Desarrollé una aplicación nativa para Android utilizando Kotlin como lenguaje principal y Jetpack Compose para la creación de la interfaz de usuario, logrando un diseño moderno, fluido y completamente adaptable a distintos dispositivos.",
+        "d2": "La aplicación integra consumo de APIs a través de la librería Ktor, permitiendo la comunicación eficiente con servicios externos y la obtención de datos en tiempo real. Esta implementación facilitó el manejo de peticiones HTTP de manera sencilla y flexible dentro del entorno de Kotlin.",
+        "d3": "El uso combinado de Jetpack Compose y Ktor permitió construir una arquitectura limpia, con componentes desacoplados y fácilmente mantenibles, asegurando una experiencia de usuario coherente y un desarrollo ágil."
     },
-
     "chatbot": {
         "titulo": "CustomLLM Chatbot",
         "link": "Ver Chatbot",
@@ -95,13 +94,11 @@
         "d2": "Implementé ChromaDB como base de datos vectorial para almacenar y consultar información de manera eficiente, mejorando la capacidad del chatbot de acceder a conocimiento contextual y relevante en tiempo real.",
         "d3": "Diseñé una arquitectura modular y escalable que permite actualizar y mantener fácilmente tanto el frontend como el backend, asegurando un rendimiento óptimo y una experiencia de usuario consistente."
     },
-
-    "server": { 
+    "server": {
         "titulo": "On-Premise Server Deployment",
         "link": "Ver Proxmox",
         "d1": "Desarrollé un servidor propio self-hosted utilizando Proxmox para virtualización y Cloudflared para establecer túneles seguros, permitiendo la ejecución de múltiples servicios y contenedores de manera aislada y eficiente.",
         "d2": "Configuré y gestioné contenedores y servicios locales, optimizando el uso de recursos y garantizando la disponibilidad continua de aplicaciones críticas en la infraestructura on-premise.",
         "d3": "Diseñé una arquitectura escalable y modular que facilita la actualización y el mantenimiento del servidor, asegurando seguridad, estabilidad y rendimiento óptimo de los servicios alojados."
     }
-    
 }

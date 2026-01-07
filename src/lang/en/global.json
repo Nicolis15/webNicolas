@@ -26,7 +26,18 @@
     },
 
     "experiencia_new" : {
-        "titulo" : "Experience"
+        "titulo" : "Experience",
+
+        "experiencia3" :{
+            "cargo" : "Jr AI engineer || Data engineer",
+            "compania" : "AXA Colpatira",
+            "d1" : "Implemented AI models and automated daily processes, including OCR, churn prediction, and classification solutions for business use cases.",
+            "d2" : "Developed chatbot solutions by building frontend interfaces and backend services using custom LLM-based implementations.",
+            "d3" : "Designed and deployed real-time APIs to support business queries, improving operational efficiency and response times.",
+            "d4" : "Automated data and AI workflows using Python and SSIS, including ETL processes to ensure reliable data availability.",
+            "d5" : "Collaborated closely with business and cross-functional teams to understand requirements and deliver AI solutions aligned with business needs."
+        }
+        
     },
 
 
