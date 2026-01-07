@@ -11,7 +11,7 @@ export default function SobreMi() {
 
                 <div class="flex flex-col justify-center items-center pl-5 pr-5 pb-5 md:pl-5  md:pr-15 scroll-animation" >
                     <h1 class="font-code-bold  text-secundary-blue text-2xl md:text-3xl sm:text-2xl text-start w-full">{t("about.about")}</h1>
-                    <p class="font-code text-secundary-white pt-5 text-start text-xs sm:text-xs md:text-sm">
+                    <p class="font-code text-secundary-white text-justify pt-5 md:text-start text-xs sm:text-xs md:text-sm">
                     {t("about.primero")}<br></br><br></br>
                     {t("about.segundo")}<br></br><br></br>
                     {t("about.tercero")}<br></br><br></br>
